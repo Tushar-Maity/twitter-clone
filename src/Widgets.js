@@ -21,5 +21,4 @@ function Widgets() {
         </div>
     );
 }
-
 export default Widgets
